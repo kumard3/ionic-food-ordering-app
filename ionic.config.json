@@ -1,0 +1,7 @@
+{
+  "name": "ionic-food-ordering",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
